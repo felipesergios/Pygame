@@ -1,7 +1,10 @@
-# EstudoPygame
-Game Basic
-#Dependencias
-Python 3,
-Pygame,
+<h2>PyGame</h2>
+<p>
+Jogos Básicos:
+<ul>  
+<h3>Dependencias</h3>
+<li>Python 3</li>
+<li>Pygame</li>
+</ul>  
 Video Aulas Ultilizadas Para Criar o Projeto :
-https://pythonprogramming.net/
+<a href="https://pythonprogramming.net/">Site de Referencia.</a></p>
